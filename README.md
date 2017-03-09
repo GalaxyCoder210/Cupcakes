@@ -8,5 +8,5 @@ Instead of layers with frosing in between them,the frosting is spread or piped o
 INGENIUS!!!!!!!!
 
 Now,the photos....
-(http://www.sonrisasypostres.com.ve/wp-content/uploads/2016/05/cupcake-chocolate-1.jpg "Logo Title Text 1")
+![alt text](http://www.sonrisasypostres.com.ve/wp-content/uploads/2016/05/cupcake-chocolate-1.jpg "CateCakes")
 
