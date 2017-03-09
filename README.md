@@ -1,4 +1,4 @@
-Hi!  Lets look at photos of delicious cupcakes!
+#Hi!  Lets look at photos of delicious cupcakes!
 
 First,a decription of what cupcakes are...
 
