@@ -1,4 +1,4 @@
-## Today we will be looking at photos of CUPCAKES
+title:Hi,today we shall be looking at photos of CUPCAKES
 
 You can use the [editor on GitHub](https://github.com/GalaxyCoder210/Cupcakes/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
