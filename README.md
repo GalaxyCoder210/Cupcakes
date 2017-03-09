@@ -8,4 +8,4 @@ Instead of layers with frosing in between them,the frosting is spread or piped o
 INGENIUS!!!!!!!!
 
 Now,the photos....
-<img src="..\images\Emoticons\cool.png">
+<img src="images\Emoticons\cool.png">
