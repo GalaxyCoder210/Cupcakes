@@ -8,4 +8,4 @@ Instead of layers with frosing in between them,the frosting is spread or piped o
 INGENIUS!!!!!!!!
 
 Now,the photos....
-!(Image of a cupcake)(htpps://GalaxyCoder210.github.com/images/chocolatecupcake.png)
+http://www.sonrisasypostres.com.ve/es/cupcakes/cupcake-de-chocolate/
