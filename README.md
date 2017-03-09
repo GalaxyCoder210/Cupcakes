@@ -9,4 +9,4 @@ INGENIUS!!!!!!!!
 
 Now,the photos....
 
-<img src="http://www.sonrisasypostres.com.ve/wp-content/uploads/2016/05/cupcake-chocolate-1.jpg" height=200 width=250>
+<img src="http://www.sonrisasypostres.com.ve/wp-content/uploads/2016/05/cupcake-chocolate-1.jpg" height=200 width=250 />
